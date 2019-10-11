@@ -6,4 +6,4 @@
 
 >3.How many countries belong to Higher Income,Middle Income and Low Income Category?
 
-### Note : - All thos question's has been answered in project by using dashboard and story feature of Tableau Software. 
+### Note : - All these question's has been answered in this project by using dashboard and story feature of Tableau Software. 
